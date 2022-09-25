@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920px" height="1497px" viewBox="0 0 1920 1497" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0" y1="1" x2="0" y2="0" gradientTransform="matrix(84.466146,0,0,72.996775,1407.249349,509.004728)">
+<stop offset="0" style="stop-color:rgb(53.333333%,86.666667%,87.843137%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,49.411765%,82.352941%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="0" y1="1" x2="0" y2="0" gradientTransform="matrix(83.997396,0,0,84.001597,458.001302,57.999593)">
+<stop offset="0" style="stop-color:rgb(53.333333%,86.666667%,87.843137%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,49.411765%,82.352941%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear2" gradientUnits="userSpaceOnUse" x1="0" y1="1" x2="0" y2="0" gradientTransform="matrix(85.729167,0,0,43.871336,316.129557,692.629791)">
+<stop offset="0" style="stop-color:rgb(53.333333%,86.666667%,87.843137%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,49.411765%,82.352941%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="1" gradientTransform="matrix(67.692057,0,0,96.140719,115.953776,341.729553)">
+<stop offset="0" style="stop-color:rgb(24.313725%,0%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,87.843137%,93.333333%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear4" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="1" gradientTransform="matrix(108.001302,0,0,107.998027,1035,705.001409)">
+<stop offset="0" style="stop-color:rgb(24.313725%,0%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,87.843137%,93.333333%);stop-opacity:1;"/>
+</linearGradient>
+<linearGradient id="linear5" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="1" gradientTransform="matrix(88.723958,0,0,76.801259,1340.390625,93.998935)">
+<stop offset="0" style="stop-color:rgb(24.313725%,0%,0%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(100%,87.843137%,93.333333%);stop-opacity:1;"/>
+</linearGradient>
+</defs>
+<g id="surface1">
+<rect x="0" y="0" width="1920" height="1497" style="fill:rgb(67.45098%,13.72549%,36.470588%);fill-opacity:1;stroke:none;"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear0);stroke-miterlimit:10;" d="M 1409.000651 581.001065 L 1450.351562 511.000908 L 1490 581.001065 Z M 1409.000651 581.001065 " transform="matrix(1.2,0,0,1.663333,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear1);stroke-miterlimit:10;" d="M 540 99.999217 C 540 122.091057 522.089844 140.000313 500 140.000313 C 477.910156 140.000313 460 122.091057 460 99.999217 C 460 77.909726 477.910156 60.00047 500 60.00047 C 522.089844 60.00047 540 77.909726 540 99.999217 Z M 540 99.999217 " transform="matrix(1.2,0,0,1.663333,0,0)"/>
+<path style="fill:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear2);stroke-miterlimit:10;" d="M 400.859375 735.500689 L 317.128906 735.500689 C 317.128906 712.380229 335.869141 693.630229 359.000651 693.630229 C 382.128906 693.630229 400.859375 712.380229 400.859375 735.500689 Z M 400.859375 735.500689 " transform="matrix(1.2,0,0,1.663333,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear3);stroke-miterlimit:10;" d="M 149.801432 345.200557 L 118.398438 389.799912 L 149.801432 434.399267 L 181.201172 389.799912 Z M 149.801432 345.200557 " transform="matrix(1.2,0,0,1.663333,0,0)"/>
+<path style="fill:none;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear4);stroke-miterlimit:10;" d="M 1039.000651 709.000814 L 1139.000651 709.000814 L 1139.000651 809.000031 L 1039.000651 809.000031 Z M 1039.000651 709.000814 " transform="matrix(1.2,0,0,1.663333,0,0)"/>
+<path style="fill:none;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke:url(#linear5);stroke-miterlimit:10;" d="M 1426.80013 132.400739 L 1405.69987 168.799317 L 1363.701172 168.799317 L 1342.698568 132.400739 L 1363.701172 95.999812 L 1405.69987 95.999812 Z M 1426.80013 132.400739 " transform="matrix(1.2,0,0,1.663333,0,0)"/>
+</g>
+</svg>
