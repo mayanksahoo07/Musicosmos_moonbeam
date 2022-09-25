@@ -194,7 +194,7 @@ contract("Musicosmos", ([deployer, seller, buyer, buyer2]) => {
 				oldSellerBalance = BigNumber(oldSellerBalance);
 
 				// Track MusicosmosMain balance before purchase
-				let musicosmosMainAddress = "0x69e6830Fb2009952571deE88CA2041D2bD6FD491";
+				let musicosmosMainAddress = "0x8FBC5c40Cf9F8336a3909b7278Fd691Dbe03dd79";
 				let oldMusicosmosMainBalance = await web3.eth.getBalance(musicosmosMainAddress);
 				oldMusicosmosMainBalance = BigNumber(oldMusicosmosMainBalance);
 
